@@ -30,7 +30,7 @@ struct CoinList: View {
     }
 }
 
-struct LandmarksList_Previews: PreviewProvider {
+struct CoinList_Previews: PreviewProvider {
     static var previews: some View {
         CoinList()
             .environmentObject(UserProfile())

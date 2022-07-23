@@ -45,7 +45,7 @@ struct CoinSummaryRow: View {
     }
 }
 
-struct LandmarkRow_Previews: PreviewProvider {
+struct CoinSummaryRow_Previews: PreviewProvider {
     static var previews: some View {
         Group {
             CoinSummaryRow(coinData: allCoinData[0])
