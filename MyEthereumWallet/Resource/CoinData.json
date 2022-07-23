@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1000,
+        "name": "Bitcoin",
+        "shortName": "BTC",
+        "percentage": "2.45%",
+        "state": 0,
+        "value": "436.922",
+        "isFavorite": true,
+        "desc": "这是比特币的描述这是比特币的描述这是比特币的描述这是比特币的描述这是比特币的描述这是比特币的描述这是比特币的描述这是比特币的描述"
+    },
+    {
+        "id": 1001,
+        "name": "Ethereum",
+        "shortName": "ETH",
+        "percentage": "3.32%",
+        "state": 1,
+        "value": "180.952",
+        "isFavorite": true,
+        "desc": "这是Ethereum的描述这是Ethereum的描述这是Ethereum的描述这是Ethereum的描述这是Ethereum的描述这是Ethereum的描述"
+    },
+    {
+        "id": 1002,
+        "name": "Tether",
+        "shortName": "USDT",
+        "percentage": "0.00%",
+        "state": 1,
+        "value": "65.851",
+        "isFavorite": false,
+        "desc": "这是Tether的描述这是Tether的描述这是Tether的描述这是Tether的描述这是Tether的描述这是Tether的描述"
+    },
+    {
+        "id": 1003,
+        "name": "USD Coin",
+        "shortName": "USDC",
+        "percentage": "0.00%",
+        "state": 1,
+        "value": "54.936",
+        "isFavorite": false,
+        "desc": "这是USD Coin的描述这是USD Coin的描述这是USD Coin的描述这是USD Coin的描述"
+    },
+    {
+        "id": 1004,
+        "name": "BNB",
+        "shortName": "BNB",
+        "percentage": "0.02%",
+        "state": 0,
+        "value": "17.548",
+        "isFavorite": true,
+        "desc": "这是BNB的描述这是BNB的描述这是BNB的描述这是BNB的描述这是BNB的描述"
+    },
+    {
+        "id": 1005,
+        "name": "Binance USD",
+        "shortName": "BUSD",
+        "percentage": "0.02%",
+        "state": 0,
+        "value": "17.548",
+        "isFavorite": true,
+        "desc": "这是Binance USD的描述这是Binance USD的描述这是Binance USD的描述这是Binance USD的描述这是Binance USD的描述这是Binance USD的描述"
+    },
+    {
+        "id": 1006,
+        "name": "XRP",
+        "shortName": "XRP",
+        "percentage": "4.34%",
+        "state": 0,
+        "value": "17.242",
+        "isFavorite": true,
+        "desc": "暂无"
+    },
+    {
+        "id": 1007,
+        "name": "Cordano",
+        "shortName": "ADA",
+        "percentage": "7.20%",
+        "state": 0,
+        "value": "16.546",
+        "isFavorite": false,
+        "desc": "暂无"
+    }
+]
